@@ -1,0 +1,24 @@
+{
+  "name": "socialmedia_Challenge18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickmay9/socialmedia_Challenge18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickmay9/socialmedia_Challenge18/issues"
+  },
+  "homepage": "https://github.com/nickmay9/socialmedia_Challenge18#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19"
+  }
+}
